@@ -22,7 +22,7 @@ I am currently documenting my journey to master **Data Engineering** concepts, m
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github)
 
 ### 📈 My Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshaua-Egbeyemi&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshuaEgbeyemi&show_icons=true&theme=radical)
 
 ### 📬 Let's Connect
 I am open to **Data Analyst**, **Junior Data Engineer** and **SQL Developer** roles.
