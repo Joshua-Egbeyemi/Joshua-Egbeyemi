@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Joshua Egbeyemi! 👋
+### 📊 Data Analyst & SQL Enthusiast
 
-<!--
-**Joshua-Egbeyemi/Joshua-Egbeyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help businesses turn raw data into revenue-generating insights. Specializing in **PostgreSQL**, **Python**, and **Customer Retention Strategies**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **Advanced SQL Portfolio Projects**
+- 🌱 I’m currently learning: **AWS Cloud Engineering**
+- 💼 I’m looking for: **Data Analyst roles in FinTech or Retail**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=for-the-badge&logo=python)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel)
+![PowerBI](https://img.shields.io/badge/PowerBI-Visualization-orange?style=for-the-badge&logo=powerbi)
+
+### 📬 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joshua-egbeyemi-0108ja08/)
