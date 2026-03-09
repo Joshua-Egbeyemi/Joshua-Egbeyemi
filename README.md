@@ -1,7 +1,7 @@
 # Hi there, I'm Joshua Egbeyemi 👋
 ### 🚀 Strategic Data Analyst | E-commerce & Supply Chain Optimization
 
-I am a Data Analyst based in Lagos, Nigeria, specializing in translating complex operational datasets into revenue-generating business strategies. 
+I am a Data Analyst based in Ibadan, Nigeria, specializing in translating complex operational datasets into revenue-generating business strategies. 
 
 By combining a rigorous scientific foundation (**B.Sc. Industrial Chemistry**) with advanced proficiency in PostgreSQL, Python, and Power BI, I treat business data like a lab environment—prioritizing 100% data integrity, root-cause analysis, and measurable ROI. I operate seamlessly in remote, asynchronous workflows to deliver full-lifecycle data projects across global time zones.
 
